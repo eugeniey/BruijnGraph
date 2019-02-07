@@ -6,6 +6,8 @@ Ci-dessous se trouve un exemple d'un graphe de Bruijn pour un alphabet sur {0,1}
 
 ![capture1](https://user-images.githubusercontent.com/47392583/52370305-87f7e100-2a20-11e9-81fd-445b47584232.PNG)
 
+Pour plus d'informations, visitez https://en.wikipedia.org/wiki/De_Bruijn_graph
+
 Dans ce projet on trouve,
 
 - L'implémentation d'une table de hachage pour faire le graphe de Bruijn. 
